@@ -1,2 +1,2 @@
-# Facebook-birthday-automation
-Script which automates the birthday wishes for all your friend birthdays on facebook
+# Facebook-likes visualize
+Script which visualizes facebook likes made by the user
