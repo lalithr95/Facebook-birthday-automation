@@ -14,6 +14,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'materialize-sass'
 gem 'devise'
 gem 'koala', '~> 2.2'
+gem "highcharts-rails"
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
